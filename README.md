@@ -1,0 +1,1 @@
+# This repository contains an image that contains a slack conversation enquiring about something new.
